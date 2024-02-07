@@ -264,3 +264,4 @@
 * 5계층 - 세션 계층(Session Layer) : VARIOUS API;S, SOCKETS
 * 6계층 - 표현 계층(Presentation Layer) : SSL, FTP, IMAP, SSH
 * 7계층 - 응용 계층(Application Layer) : HTTP, FTP, IRC, SSH, DNS
+-----------------------------------------------------------------------------------
