@@ -316,3 +316,20 @@
 14. =, +=, -=, *=, /=, <<=, >>=, &=, ^=, ~= : 대입 / 할당 연산자
 
 
+## 응용 계층(Application layer)
+
+기능 :응용 서비스나 프로세스가 응용계층에서 동작.(HTTP, FTP, SMTP)
+프로토콜 정리
+물리 계층(Physical Layer): 프로토콜x, 랜선, 허브, 리피터들의 디바이스들
+
+* 데이터 링크 계층(Data Link Layer): Ethernet, Token Ring, FDDI
+
+* 네트워크 계층(Network Layer): IP, ICMP, ARP, RARP
+
+* 전송 계층(Transport Layer): TCP, UDP
+
+* 세션 계층(Session Layer): NetBIOS, SAP, SDP, NWLink
+
+* 표현 계층(Presentation Layer): ASCII, MPEG, JPEG, MIDI
+
+* 응용 계층(Application Layer): HTTP, SMTP, FTP
