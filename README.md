@@ -334,3 +334,5 @@
 * 표현 계층(Presentation Layer): ASCII, MPEG, JPEG, MIDI
 
 * 응용 계층(Application Layer): HTTP, SMTP, FTP
+
+-------------------------------------------------------------------------------------------------
